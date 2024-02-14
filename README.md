@@ -1,10 +1,11 @@
 ## 🙌 About me
 안녕하세요 박지완입니다.
 
-## 🛠  Skill
+## 🔨  Skill
 
 <a name="learning-now"></a>
-<div 
+<div align=left>
+
 &nbsp;
 [<img src="https://img.shields.io/badge/-%23A8B9CC?logo=c&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -21,7 +22,14 @@
 [<img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
+
+</div>
+
+## 🛠️ My Projects
+삥뽕
 
 ## 🔍  Where to find me
 
