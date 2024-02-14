@@ -24,9 +24,12 @@
 [<img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwan01&layout=compact)
 </div>
+
+## 📊 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batwan01&show_icons=true&theme=radical)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwan01&layout=compact)
 
 ## 🛠️ My Projects
 삥뽕
