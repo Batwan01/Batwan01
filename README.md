@@ -25,7 +25,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwan01&layout=compact)
 </div>
 
 ## 🛠️ My Projects
