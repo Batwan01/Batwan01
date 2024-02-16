@@ -32,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwan01&layout=compact)
 
 ## 🛠️ My Projects
-https://github.com/2023-CODE-SILVER
+CODE Silver
 
 ## 🔍  Where to find me
 
