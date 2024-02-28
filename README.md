@@ -34,11 +34,20 @@
 ## 🛠️ My Projects
 CODE Silver
 
+## 🏆 Prize(작성중)
+
+| 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
+| - | - | - | - |
+|  2024.2 | 인공지능윤리 아이디어 경진대회 | KT 대표 이사상 | ESG협의체(SKT, KT, LG U+, NHN, MS) |
+
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Velog-%2320C997?logo=Velog&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://velog.io/@wldhks1120/posts)
 &nbsp;
 [<img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://batwan.notion.site/1-with-Oopy-85dba65c73bf4d2f94bf0d26663428f6?pvs=4)
+
+
+
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
