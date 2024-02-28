@@ -46,7 +46,9 @@ CODE Silver
 &nbsp;
 [<img src="https://img.shields.io/badge/Notion-%23000000?logo=Notion&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://batwan.notion.site/1-with-Oopy-85dba65c73bf4d2f94bf0d26663428f6?pvs=4)
 
-
+## 💻 Associated
+KT 대표 이사상
+https://www.cstimes.com/news/articleView.html?idxno=580570
 
 
 [tech_tools_anchor]: #bonjour--
