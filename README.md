@@ -42,7 +42,7 @@ CODE Silver
 |  2024.02 | [인공지능윤리 아이디어 경진대회](https://velog.io/@wldhks1120/%EC%9C%A4%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8C%80%ED%9A%8C) | KT 대표 이사상 | ESG협의체(SKT, KT, LG, NHN, MS) |
 |  2023.11 | [프로그래밍 경진대회](https://velog.io/@wldhks1120/%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C) | 우수상 | National Gangneung-Wonju Univ CSE |
 |  2023.11 | [AZURE를 활용한 인공지능 서비스 개발 경진대회](https://velog.io/@wldhks1120/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) | 장려상 | 인공지능기술교육협의회 회장 |
-|  2023.11 | [RPA 대회](https://velog.io/@wldhks1120/AIRPA-%ED%95%B4%EC%BB%A4%ED%86%A4) | 장려상 | 한국지능정보사회진흥원 원장 |
+|  2023.11 | [AIRpa 해커톤](https://velog.io/@wldhks1120/AIRPA-%ED%95%B4%EC%BB%A4%ED%86%A4) | 장려상 | 한국지능정보사회진흥원 원장 |
 |  2023.09 | [생성형 AI 아이디어개발 창업톤](https://velog.io/@wldhks1120/AI-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85%ED%86%A4) | 최우수 | 대구한의대학교 |
 |  2023.06 | 대학생 논문경진대회(딥러닝을 이용한 메세지 카테고리 분류) | 동상 | 한국정보기술학회장 |
 |  2023.05 | [창업 경진대회](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | National Gangneung-Wonju Univ LINC |
