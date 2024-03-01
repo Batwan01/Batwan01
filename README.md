@@ -34,7 +34,7 @@
 ## 🛠️ My Projects
 CODE Silver
 
-## 🏆 Prize(작성중)
+## 🏆 Prize
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | - | - |
