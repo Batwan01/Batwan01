@@ -56,7 +56,7 @@ CODE Silver
 
 ## 💻 Associated
 [KT 대표 이사상](https://www.cstimes.com/news/articleView.html?idxno=580570)
-
+&nbsp;
 [파이썬 공부](https://velog.io/@wldhks1120/%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
 
