@@ -44,7 +44,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwan01&layout=compact)
 
 ## 🛠️ My Projects
-CODE Silver
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldhks1120)](https://solved.ac/wldhks1120)
 
 ## 🏆 Prize
 
