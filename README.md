@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBatwan01&count_bg=%23C6D2FF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</div>
+
 ## 🙌 About me
 인공지능에 관심을 가지고 성장하는 개발자입니다.
 
