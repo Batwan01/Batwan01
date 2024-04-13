@@ -6,10 +6,7 @@
 인공지능에 관심을 가지고 성장하는 개발자입니다.
 
 ## 🔨  Skill
-
-<a name="learning-now"></a>
-<div align=left>
-
+  
 &nbsp;
 [<img src="https://img.shields.io/badge/-%23A8B9CC?logo=c&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -28,6 +25,8 @@
 [<img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+
+## ⌨️ Studying
 
 &nbsp;
 [<img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
