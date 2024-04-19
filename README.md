@@ -76,6 +76,9 @@
 [KT 대표 이사상](https://www.cstimes.com/news/articleView.html?idxno=580570)
 &nbsp;
 [파이썬 공부](https://velog.io/@wldhks1120/%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+&nbsp;
+[의료 데이터 분석 경진대회 유튜브](https://youtu.be/ph2jLIgfGf4?si=NCZOz1C7UyW4qFM4)
+
 
 
 [tech_tools_anchor]: #bonjour--
