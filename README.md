@@ -67,6 +67,10 @@
 |  2023.05 | [창업 경진대회](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | GWNU LINC |
 |  2020.09 | 홍보대사 하랑 | 단원 | GWNU 대학 지원본부 |
 
+## 자격증
+
+|  2020.09 | 홍보대사 하랑 | 단원 | GWNU 대학 지원본부 |
+
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Velog-%2320C997?logo=Velog&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://velog.io/@wldhks1120/posts)
