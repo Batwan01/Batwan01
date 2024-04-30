@@ -49,7 +49,7 @@
 ## 🛠️ My Projects
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldhks1120)](https://solved.ac/wldhks1120)
 
-## 🏆 Prize
+## 🏆 Awards
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | - |
