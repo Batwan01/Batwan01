@@ -53,7 +53,7 @@
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | - |
-|  2024.05 | [창업 경진대회](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | 은상 | GWNU   LINC |
+|  2024.05 | [창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | GWNU   LINC |
 |  2024.04 | [대학 우등 포상 및 Dean's list(작성중)](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | GWNU 과학기술대학 |
 |  2024.04 | [AI 기반 의료 데이터 분석 경진대회](https://velog.io/@wldhks1120/AI-의료-데이터-분석) | 대상 | 연세대학교 부총장상 |
 |  2024.04 | AI 기반 의료 데이터 분석 교육 | 수료 | 인텔코리아 대표이사 |
