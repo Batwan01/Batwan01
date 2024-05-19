@@ -53,7 +53,7 @@
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | - |
-|  2024.05 | [창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | GWNU   LINC |
+|  2024.05 | [2024 창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | GWNU   LINC |
 |  2024.04 | [대학 우등 포상 및 Dean's list(작성중)](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | GWNU 과학기술대학 |
 |  2024.04 | [AI 기반 의료 데이터 분석 경진대회](https://velog.io/@wldhks1120/AI-의료-데이터-분석) | 대상 | 연세대학교 부총장상 |
 |  2024.04 | AI 기반 의료 데이터 분석 교육 | 수료 | 인텔코리아 대표이사 |
@@ -66,7 +66,7 @@
 |  2023.09 | [생성형 AI 아이디어개발 창업톤](https://velog.io/@wldhks1120/AI-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85%ED%86%A4) | 최우수 | 대구한의대학교 |
 |  2023.08 | [하나 소셜벤처 유니버시티 창업교육](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 수료 | 하나금융그룹 |
 |  2023.06 | 대학생 논문경진대회(딥러닝을 이용한 메세지 카테고리 분류) | 동상 | 한국정보기술학회장 |
-|  2023.05 | [창업 경진대회](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | GWNU LINC |
+|  2023.05 | [2023 창업 경진대회](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | GWNU LINC |
 |  2020.09 | 홍보대사 하랑 | 단원 | GWNU 대학 지원본부 |
 
 ## 🪪 Certificate
