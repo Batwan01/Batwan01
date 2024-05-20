@@ -26,12 +26,14 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
-## ⌨️ Studying
 
+## ⌨️ Studying
 &nbsp;
 [<img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=Firebase&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
@@ -39,6 +41,10 @@
 [<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=Tensorflow&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=PyTorch&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 </div>
 
 ## 📊 Github Stats
