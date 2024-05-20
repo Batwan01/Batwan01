@@ -53,6 +53,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwan01&hide=Jupyter%20Notebook&layout=compact&theme=radical)
 
 ## 🛠️ My Projects
+### 나비 추가 예정
+### 일정 관리 앱 추가 예정
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldhks1120)](https://solved.ac/wldhks1120)
 
 ## 🏆 Awards
