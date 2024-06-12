@@ -66,7 +66,7 @@
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | - |
 |  2024.05 | [2024 창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | GWNU   LINC |
-|  2024.04 | [대학 우등 포상 및 Dean's list(작성중)](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | GWNU 과학기술대학 |
+|  2024.04 | [대학 우등 포상 및 Dean's list](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | GWNU 과학기술대학 |
 |  2024.04 | [AI 기반 의료 데이터 분석 경진대회](https://velog.io/@wldhks1120/AI-의료-데이터-분석) | 대상 | 연세대학교 부총장상 (intel, G-market) |
 |  2024.02 | [한국지도자육성장학재단 장학생 선발(국내 104명)](https://velog.io/@wldhks1120/%ED%95%9C%EC%A7%80%ED%9A%8C-54%EA%B8%B0-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C) | 장학생 | 한국지도자육성장학재단 이사장 |
 |  2024.02 | [인공지능윤리 아이디어 경진대회](https://velog.io/@wldhks1120/%EC%9C%A4%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8C%80%ED%9A%8C) | KT 대표 이사상 | ESG협의체(SKT, KT, LG, NHN, MS) |
