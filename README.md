@@ -33,7 +33,6 @@ Computer Vision에 관심있는 박지완입니다.
 </div>
 
 ## 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batwan01&show_icons=true&theme=radical)
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwan01&hide=Jupyter%20Notebook&layout=compact&theme=radical)
 
