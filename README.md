@@ -8,36 +8,19 @@ Computer Vision에 관심있는 박지완입니다.
 미숙하지만 꾸준히 노력해 성장하고 싶습니다.
 
 ## 🔨  Skill
-  
-&nbsp;
-[<img src="https://img.shields.io/badge/-%23A8B9CC?logo=c&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JAVA-%23FF160B" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-
 
 ## ⌨️ Studying
 &nbsp;
 [<img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=Firebase&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
 &nbsp;
 [<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=Tensorflow&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
