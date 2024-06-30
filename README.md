@@ -93,7 +93,7 @@ Computer Vision에 관심있는 박지완입니다.
 &nbsp;
 [Bostcamp-AI 정리](https://velog.io/@wldhks1120/series/Bostcamp-AI)
 &nbsp;
-[딥러닝 공부(책정리)](https://batwan.notion.site/2e019f6f25cf4163b740256a6b94bad4?pvs=4)
+[딥러닝 정리](https://batwan.notion.site/2e019f6f25cf4163b740256a6b94bad4?pvs=4)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
