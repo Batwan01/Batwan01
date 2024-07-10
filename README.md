@@ -84,8 +84,6 @@ Computer Vision에 관심있는 박지완입니다.
 &nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://www.linkedin.com/in/지완-박-09584a299/)
 
-노션
-
 ## 💻 Associated
 [KT 대표 이사상](https://www.cstimes.com/news/articleView.html?idxno=580570)
 &nbsp;
