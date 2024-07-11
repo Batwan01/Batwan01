@@ -74,8 +74,8 @@ Computer Vision에 관심있는 박지완입니다.
 
 | 발급일 | 자격증명 | 시행처 |
 | - | - | :-: |
-|  2024. 07. 11. | AZ-900 | Microsoft |
-|  2023. 10. 11. | AI-900 | Microsoft |
+|  2024. 07. 11. | [AZ-900](https://www.credly.com/badges/c11552a5-72b7-4bd7-afaf-414ada914204) | Microsoft |
+|  2023. 10. 11. | [AI-900](https://www.credly.com/earner/earned/badge/43e9ce02-d346-416c-8c44-dd79194c43b6) | Microsoft |
 |  2022. 07. 15. | 컴퓨터활용능력 1급 | 대한상공회의소 |
 |  2022. 04. 22. | 한국사능력검정시험 1급  | 국산편찬위원회 |
 
