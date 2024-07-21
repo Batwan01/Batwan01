@@ -93,8 +93,6 @@ Computer Vision에 관심있는 박지완입니다.
 &nbsp;
 [데이터 분석 경진대회 영상](https://youtu.be/ph2jLIgfGf4?si=NCZOz1C7UyW4qFM4) / [유튜브 기사](https://www.youtube.com/watch?v=ibU8Uvy4YVg)
 &nbsp;
-[Bostcamp-AI 정리](https://velog.io/@wldhks1120/series/Bostcamp-AI)
-&nbsp;
 [딥러닝 정리](https://batwan.notion.site/2e019f6f25cf4163b740256a6b94bad4?pvs=4)
 
 [tech_tools_anchor]: #bonjour--
