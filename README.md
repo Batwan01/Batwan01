@@ -87,8 +87,6 @@ Computer Vision에 관심있는 박지완입니다.
 ## 💻 Associated
 [KT 대표 이사상](https://www.cstimes.com/news/articleView.html?idxno=580570)
 &nbsp;
-[파이썬 공부](https://velog.io/@wldhks1120/%ED%8C%8C%EC%9D%B4%EC%8D%AC)
-&nbsp;
 [데이터 분석 경진대회 영상](https://youtu.be/ph2jLIgfGf4?si=NCZOz1C7UyW4qFM4) / [유튜브 기사](https://www.youtube.com/watch?v=ibU8Uvy4YVg)
 
 [tech_tools_anchor]: #bonjour--
