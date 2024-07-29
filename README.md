@@ -26,14 +26,6 @@ Computer Vision에 관심있는 박지완입니다.
 &nbsp;
 [<img src="https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
-&nbsp;
-[<img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-
-
-</div>
-
 ## 📊 Github Stats
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batwan01&hide=Jupyter%20Notebook&layout=compact&theme=radical)
