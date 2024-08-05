@@ -37,8 +37,8 @@ Computer Vision에 관심있는 박지완입니다.
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | - |
-|  2024.05 | [2024 창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | GWNU   LINC |
-|  2024.04 | [대학 우등 포상 및 Dean's list](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | GWNU 과학기술대학 |
+|  2024.05 | [2024 창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | LINC 3.0 |
+|  2024.04 | [대학 우등 포상 및 Dean's list](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | 과학기술대학 |
 |  2024.04 | [AI 기반 의료 데이터 분석 경진대회](https://velog.io/@wldhks1120/AI-의료-데이터-분석) / [코드](https://github.com/Batwan01/AI/blob/master/DL/contest/CT%2C%20MRI%20Classification/submit.ipynb) | 대상 | 연세대학교 부총장상 (intel, G-market) |
 |  2024.02 | [한국지도자육성장학재단 장학생 선발(국내 104명)](https://velog.io/@wldhks1120/%ED%95%9C%EC%A7%80%ED%9A%8C-54%EA%B8%B0-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C) | 장학생 | 한국지도자육성장학재단 이사장 |
 |  2024.02 | [인공지능윤리 아이디어 경진대회](https://velog.io/@wldhks1120/%EC%9C%A4%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8C%80%ED%9A%8C) | KT 대표 이사상 | ESG협의체(SKT, KT, LG, NHN, MS) |
@@ -47,7 +47,7 @@ Computer Vision에 관심있는 박지완입니다.
 |  2023.11 | [AIRpa 해커톤](https://velog.io/@wldhks1120/AIRPA-%ED%95%B4%EC%BB%A4%ED%86%A4) | 장려상 | 한국지능정보사회진흥원 원장 |
 |  2023.09 | [생성형 AI 아이디어개발 창업톤](https://velog.io/@wldhks1120/AI-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85%ED%86%A4) | 최우수 | 대구한의대학교 |
 |  2023.06 | [대학생 논문경진대회(SMS category classification)](https://private-user-images.githubusercontent.com/128815650/350651812-6cc183e5-5d28-4623-b035-4dd504f988f0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0Mzg3NDIsIm5iZiI6MTcyMTQzODQ0MiwicGF0aCI6Ii8xMjg4MTU2NTAvMzUwNjUxODEyLTZjYzE4M2U1LTVkMjgtNDYyMy1iMDM1LTRkZDUwNGY5ODhmMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQwMTIwNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kM2E2MTJiOGI0ZWUzYTlhOGU5OGVhNzgwNGQ2MGFmNTEwOWRkNTE1ODYxZjZkMzczMTVkOWEzZTJkZTVkYmIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.cYpKLyS3kCGTGXjKPB0dxa8Mqzi_N9h3IXlssOAkbsM) / [코드](https://github.com/Batwan01/AI/tree/master/DL/contest/%20SMS%20category%20classification)| 동상 | 한국정보기술학회장 |
-|  2023.05 | [2023 창업 경진대회](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | GWNU LINC |
+|  2023.05 | [2023 창업 경진대회](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | LINC 3.0 |
 
 ## 👨‍💻 Activity
 | 날짜 | 활동명 | 내용 | 주최, 주관, 후원 |
