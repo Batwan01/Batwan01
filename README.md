@@ -1,13 +1,22 @@
-<div align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBatwan01&count_bg=%23C6D2FF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-</div>
+</br><br/><br/>
 
-## 🙌 About me
-Computer Vision에 관심있는 박지완입니다.
+<div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Jiwan's+Github+%E3%80%80%E3%80%80"><br/><br><br>
 
-꾸준히 노력해 성장하고 싶습니다.
+[<img src="https://img.shields.io/badge/Velog-%2320C997?logo=Velog&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://velog.io/@wldhks1120/posts)
+&nbsp;
+[<img src="https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://www.linkedin.com/in/지완-박-09584a299/)
+
+&nbsp;
+---
+
+
 
 <!--
+<a href="mailto:joker7011@naver.com"><img src="https://img.shields.io/badge/mail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" height=30px></a>
+
+<br/>
+
+
 ## 🔨  Skill
 
 &nbsp;
@@ -68,12 +77,6 @@ Computer Vision에 관심있는 박지완입니다.
 |  2023. 10. 11. | [AI-900](https://www.credly.com/earner/earned/badge/43e9ce02-d346-416c-8c44-dd79194c43b6) | Microsoft |
 |  2022. 07. 15. | [컴퓨터활용능력 1급](https://private-user-images.githubusercontent.com/128815650/350652351-d0092983-fd97-4b98-9448-40e927cf82c3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0Mzg5ODcsIm5iZiI6MTcyMTQzODY4NywicGF0aCI6Ii8xMjg4MTU2NTAvMzUwNjUyMzUxLWQwMDkyOTgzLWZkOTctNGI5OC05NDQ4LTQwZTkyN2NmODJjMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQwMTI0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYzVjYTY4MDhlYzcwZGU3NDZkM2FkN2RjZTQyMzFmNTJlZTU1ZTE1YTViMzlmZWQ2M2EwYjk1MDhiYmJlNzUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.1CbwWsbY6qhNPWw2-M1_kaCRbhwS9xxHMcFtPiOKeJk) | 대한상공회의소 |
 |  2022. 04. 22. | [한국사능력검정시험 1급](https://private-user-images.githubusercontent.com/128815650/350652583-fd350611-719e-4066-9b4e-912b927aad57.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0MzkxMDIsIm5iZiI6MTcyMTQzODgwMiwicGF0aCI6Ii8xMjg4MTU2NTAvMzUwNjUyNTgzLWZkMzUwNjExLTcxOWUtNDA2Ni05YjRlLTkxMmI5MjdhYWQ1Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQwMTI2NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MDcxNzQ4NDZkYjA5Yzc1YjU3N2Y5NTIzMjA1Y2IxNjc3ZmFmNmUxODk3ZGM1ODliODBmMjY0YTllMTY5ODFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gkOaHgmNU0ph6BAcnYEkhFNYer-rNnymy_3asp6Cyl4)  | 국산편찬위원회 |
-
-## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/Velog-%2320C997?logo=Velog&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://velog.io/@wldhks1120/posts)
-&nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://www.linkedin.com/in/지완-박-09584a299/)
 
 ## 💻 Associated
 [KT 대표 이사상](https://www.cstimes.com/news/articleView.html?idxno=580570)
