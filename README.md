@@ -48,7 +48,7 @@ Computer Vision에 관심있는 박지완입니다.
 |  2023.06 | [대학생 논문경진대회(SMS category classification)](https://private-user-images.githubusercontent.com/128815650/350651812-6cc183e5-5d28-4623-b035-4dd504f988f0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0Mzg3NDIsIm5iZiI6MTcyMTQzODQ0MiwicGF0aCI6Ii8xMjg4MTU2NTAvMzUwNjUxODEyLTZjYzE4M2U1LTVkMjgtNDYyMy1iMDM1LTRkZDUwNGY5ODhmMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQwMTIwNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kM2E2MTJiOGI0ZWUzYTlhOGU5OGVhNzgwNGQ2MGFmNTEwOWRkNTE1ODYxZjZkMzczMTVkOWEzZTJkZTVkYmIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.cYpKLyS3kCGTGXjKPB0dxa8Mqzi_N9h3IXlssOAkbsM) / [코드](https://github.com/Batwan01/AI/tree/master/DL/contest/%20SMS%20category%20classification)| 동상 | 한국정보기술학회장 |
 |  2023.05 | [2023 창업 경진대회](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | LINC 3.0 |
 
-## 👨‍💻 Activity
+## 🎖️    Experience   🎖️
 | 날짜 | 활동명 | 내용 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
 |  2024.08~ | [부스트캠프 AI Tech 7기](https://velog.io/@wldhks1120/부스트캠프-AI-TECH-7기-최종-선발) | Computer Vision | 네이버 CONNECT(boostcamp)|
