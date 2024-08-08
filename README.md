@@ -7,6 +7,7 @@ Computer Vision에 관심있는 박지완입니다.
 
 꾸준히 노력해 성장하고 싶습니다.
 
+<!--
 ## 🔨  Skill
 
 &nbsp;
@@ -26,7 +27,7 @@ Computer Vision에 관심있는 박지완입니다.
 &nbsp;
 [<img src="https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
-<!-- ## 📊 Github Stats
+ ## 📊 Github Stats
 
 
 ## 🛠️ My Projects -->
