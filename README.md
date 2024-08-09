@@ -75,7 +75,7 @@
 | - | - | :-: |
 |  2024. 07. 11. | [AZ-900](https://www.credly.com/badges/c11552a5-72b7-4bd7-afaf-414ada914204) | Microsoft |
 |  2023. 10. 11. | [AI-900](https://www.credly.com/badges/43e9ce02-d346-416c-8c44-dd79194c43b6/public_url) | Microsoft |
-|  2022. 07. 15. | [컴퓨터활용능력 1급](https://private-user-images.githubusercontent.com/128815650/350652351-d0092983-fd97-4b98-9448-40e927cf82c3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMyMTE4NzIsIm5iZiI6MTcyMzIxMTU3MiwicGF0aCI6Ii8xMjg4MTU2NTAvMzUwNjUyMzUxLWQwMDkyOTgzLWZkOTctNGI5OC05NDQ4LTQwZTkyN2NmODJjMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwOVQxMzUyNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYzk0ODk1MzljODFjNzQxMGMzM2JmNWM5MTA4OTc0MTczYTg1OTU5MzU1NzhjOGFhMGI2ZGRlNGM4MDY5NTVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._ZyTpl_nWg39I2xg-1bgJEUJ0_fjBy0OePISDpRMHZs) | 대한상공회의소 |
+|  2022. 07. 15. | [컴퓨터활용능력 1급](https://github.com/Batwan01/Batwan01/issues/1#issuecomment-2240820070) | 대한상공회의소 |
 |  2022. 04. 22. | [한국사능력검정시험 1급](https://github.com/Batwan01/Batwan01/issues/1#issuecomment-2240820777)  | 국사편찬위원회 |
 
 ## 💻 Associated
