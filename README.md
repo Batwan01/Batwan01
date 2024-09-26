@@ -45,6 +45,7 @@
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | - |
+|  2024.09 | Sketch Image classification | 1위 | NAVER / AI Stage |
 |  2024.09 | [2024-Samsung-AI-Challenge-Black-box-Optimization](https://github.com/Batwan01/2024-Samsung-AI-Challenge-Black-box-Optimization) | 공동 6위 | 삼성전자 SAIT / 데이콘 |
 |  2024.05 | [2024 창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | LINC 3.0 |
 |  2024.04 | [대학 우등 포상 및 Dean's list](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | GWNU 과학기술대학 |
