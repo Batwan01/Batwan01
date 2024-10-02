@@ -81,6 +81,8 @@
 |  2022. 04. 22. | [한국사능력검정시험 1급](https://github.com/Batwan01/Batwan01/issues/1#issuecomment-2240820777)  | 국사편찬위원회 |
 
 ## 💻 Associated
+#Velog 최신글 <br> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wldhks1120)](https://velog.io/@wldhks1120/posts)
+
 [KT 대표 이사상](https://www.cstimes.com/news/articleView.html?idxno=580570)
 &nbsp;
 [데이터 분석 경진대회 영상](https://youtu.be/ph2jLIgfGf4?si=NCZOz1C7UyW4qFM4) / [유튜브 기사](https://www.youtube.com/watch?v=ibU8Uvy4YVg)
