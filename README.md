@@ -46,6 +46,8 @@
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | - |
 |  2024.11 | [자율주행 인공지능 챌린지 신호등 인식 부문]() / [코드](https://github.com/Batwan01/2024-Autonomous-Driving-Artificial-Intelligence-Challenge)| KaKao Mobility 대표상 | 과학기술정보통신부 <br> Kakao mobility |
+|  2024.11 | 헬스케어 데이터 경진대회 모델 개발 부문 대상 | 건강보험심사평가원장상 | 데이콘 / 건강보험심사평가원장 |
+|  2024.11 | 헬스케어 데이터 경진대회 아이디어 부문 최우수상 | 연세대학교 미래캠퍼스 부총장상 | 데이콘 / 연세대학교 미래캠퍼스 |
 |  2024.10 | [Recycling waste object detection](https://velog.io/@wldhks1120/Recycling-waste-object-detection-2nd) / [코드](https://github.com/boostcampaitech7/level2-objectdetection-cv-18)| 2위 | NAVER Connect |
 |  2024.09 | [Sketch image data classification](https://velog.io/@wldhks1120/Sketch-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EB%A5%98) / [코드](https://github.com/boostcampaitech7/level1-imageclassification-cv-18) | 1위 | NAVER Connect |
 |  2024.05 | [2024 창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | LINC 3.0 |
