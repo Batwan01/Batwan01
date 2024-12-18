@@ -87,7 +87,7 @@
 ## 💻 Associated
 **Velog 최신글** <br> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wldhks1120)](https://velog.io/@wldhks1120/posts)
 
-📃[수상 및 활동에 대한 기사]([http://www.naver.com](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4))
+📃[수상 및 활동에 대한 기사][http://www.naver.com](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
