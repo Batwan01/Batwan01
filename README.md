@@ -87,11 +87,7 @@
 ## 💻 Associated
 **Velog 최신글** <br> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wldhks1120)](https://velog.io/@wldhks1120/posts)
 
-[KT 대표 이사상](https://www.cstimes.com/news/articleView.html?idxno=580570)
-&nbsp;
-[데이터 분석 경진대회 영상](https://youtu.be/ph2jLIgfGf4?si=NCZOz1C7UyW4qFM4) / [유튜브 기사](https://www.youtube.com/watch?v=ibU8Uvy4YVg)
-&nbsp;
-[자율주행 인공지능 챌린지 기사](https://www.techm.kr/news/articleView.html?idxno=132472) / [자율주행 데이터 활용 경진대회 기사](https://www.kyeonggi.com/article/20241215580051)
+[관련기사](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4)
 
 
 [tech_tools_anchor]: #bonjour--
