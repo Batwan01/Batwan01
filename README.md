@@ -91,7 +91,7 @@
 &nbsp;
 [데이터 분석 경진대회 영상](https://youtu.be/ph2jLIgfGf4?si=NCZOz1C7UyW4qFM4) / [유튜브 기사](https://www.youtube.com/watch?v=ibU8Uvy4YVg)
 &nbsp;
-[자율주행 인공지능 챌린지 기사](https://www.techm.kr/news/articleView.html?idxno=132472)
+[자율주행 인공지능 챌린지 기사](https://www.techm.kr/news/articleView.html?idxno=132472) / [자율주행 데이터 활용 경진대회 기사](https://www.kyeonggi.com/article/20241215580051)
 
 
 [tech_tools_anchor]: #bonjour--
