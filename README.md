@@ -66,10 +66,10 @@
 ## 🎖️    Experience   🎖️
 | 날짜 | 활동명 | 내용 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
-|  2024.11 ~ 12 | 에이닷 얼리어닷터 2기 | LLM, Prompt engineering | SK telecom|
+|  2024.11 ~ 12 | [에이닷 얼리어닷터 2기](https://github.com/Batwan01/Batwan01/issues/1) | LLM, Prompt engineering | SK telecom|
 |  2024.08~ | [부스트캠프 AI Tech 7기](https://velog.io/@wldhks1120/부스트캠프-AI-TECH-7기-최종-선발) | Computer Vision | 네이버 CONNECT(boostcamp)|
-|  2024.06 | [인공지능 기초 다지기( AI Tech )](https://private-user-images.githubusercontent.com/128815650/350651840-11c85cc1-b5fe-411b-b52e-e4502349739c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0Mzg3NTgsIm5iZiI6MTcyMTQzODQ1OCwicGF0aCI6Ii8xMjg4MTU2NTAvMzUwNjUxODQwLTExYzg1Y2MxLWI1ZmUtNDExYi1iNTJlLWU0NTAyMzQ5NzM5Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQwMTIwNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTI2MDI0YmI1MWY3NDlkMzQ5YjRmZTgyMmQ4MGFlZTMwNzBlYWRkMDY2MWMwYTk4YjY1ZDgxMTExOGJlMjgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SrBNvyEMjcHlnpL_qA2qPQDhD7_ltzIih_XDZ1plqfU) | 수료 | 네이버 CONNECT(boostcamp)|
-|  2024.04 | [AI 기반 의료 데이터 분석 교육](https://private-user-images.githubusercontent.com/128815650/350651984-d5fbcc8b-4490-4e16-b4e2-53caf7371389.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0Mzg4NTcsIm5iZiI6MTcyMTQzODU1NywicGF0aCI6Ii8xMjg4MTU2NTAvMzUwNjUxOTg0LWQ1ZmJjYzhiLTQ0OTAtNGUxNi1iNGUyLTUzY2FmNzM3MTM4OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQwMTIyMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZGI5ZGZhYzI1MmJjYjgyYWUzM2UyYzEzMmJjNDIyMDAzZDAwNDIxNzMyNmE1NjZmZTFhNGYwODliZmY2N2QzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.T6AxsmNYbjLnKWjkjMJhtH_5Mdv7DwVLGVTa8y1NF3w) | 수료 | 인텔코리아 대표이사 |
+|  2024.06 | [인공지능 기초 다지기( AI Tech )](https://github.com/Batwan01/Batwan01/issues/1) | 수료 | 네이버 CONNECT(boostcamp)|
+|  2024.04 | [AI 기반 의료 데이터 분석 교육](https://github.com/Batwan01/Batwan01/issues/1) | 수료 | 인텔코리아 대표이사 |
 |  2024.01 | [시애틀 글로벌 기업 초청 방문(국내 14명)](https://velog.io/@wldhks1120/series/%EA%B2%BD%ED%97%98) | Azure AI PM, Copilot 개발자 미팅 | MS, AWS, MOLOCO |
 |  2024.01 | 홍보대사 하랑 | 부회장 | GWNU 대학 지원본부 |
 |  2023.10 | 데이터공학 연구실 | 학생 연구원 | 김병욱 교수님 |
