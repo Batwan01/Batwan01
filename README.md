@@ -70,7 +70,7 @@
 |  2024.08~2025.02 | [부스트캠프 AI Tech 7기](https://velog.io/@wldhks1120/부스트캠프-AI-TECH-7기-최종-선발) | Computer Vision | 네이버 CONNECT(boostcamp)|
 |  2024.06 | [인공지능 기초 다지기( AI Tech )](https://github.com/Batwan01/Batwan01/issues/1) | 수료 | 네이버 CONNECT(boostcamp)|
 |  2024.04 | [AI 기반 의료 데이터 분석 교육](https://github.com/Batwan01/Batwan01/issues/1) | 수료 | 인텔코리아 대표이사 |
-|  2024.01 | [시애틀 글로벌 기업 초청 방문(국내 14명)](https://velog.io/@wldhks1120/series/%EA%B2%BD%ED%97%98) | Azure AI PM, Copilot 개발자 미팅 | MS, AWS, MOLOCO |
+|  2024.01 | [시애틀 기업 초청 방문(국내 14명)](https://velog.io/@wldhks1120/series/%EA%B2%BD%ED%97%98) | Azure AI PM, Copilot 개발자 미팅 | MS, AWS, MOLOCO |
 |  2024.01 | 홍보대사 하랑 | 부회장 | GWNU 대학 지원본부 |
 |  2023.10 | 데이터공학 연구실 | 학생 연구원 | 김병욱 교수님 |
 |  2023.08 | [하나 소셜벤처 유니버시티 창업교육](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 수료 | 하나금융그룹 |
