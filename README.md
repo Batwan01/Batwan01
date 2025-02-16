@@ -67,7 +67,7 @@
 | 날짜 | 활동명 | 내용 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
 |  2024.11 ~ 12 | [에이닷 얼리어닷터 2기](https://github.com/Batwan01/Batwan01/issues/1) | LLM, Prompt engineering | SK telecom|
-|  2024.08~ | [부스트캠프 AI Tech 7기](https://velog.io/@wldhks1120/부스트캠프-AI-TECH-7기-최종-선발) | Computer Vision | 네이버 CONNECT(boostcamp)|
+|  2024.08~2025.02 | [부스트캠프 AI Tech 7기](https://velog.io/@wldhks1120/부스트캠프-AI-TECH-7기-최종-선발) | Computer Vision | 네이버 CONNECT(boostcamp)|
 |  2024.06 | [인공지능 기초 다지기( AI Tech )](https://github.com/Batwan01/Batwan01/issues/1) | 수료 | 네이버 CONNECT(boostcamp)|
 |  2024.04 | [AI 기반 의료 데이터 분석 교육](https://github.com/Batwan01/Batwan01/issues/1) | 수료 | 인텔코리아 대표이사 |
 |  2024.01 | [시애틀 글로벌 기업 초청 방문(국내 14명)](https://velog.io/@wldhks1120/series/%EA%B2%BD%ED%97%98) | Azure AI PM, Copilot 개발자 미팅 | MS, AWS, MOLOCO |
