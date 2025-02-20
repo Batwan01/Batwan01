@@ -45,7 +45,7 @@
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
-|  2024.12 | 경기도자율주행센터 데이터 활용 경진대회 대상 / [코드](https://github.com/Batwan01/Gyeonggi-Autonomous-Driving-Center-Data-Utilization-Competition)| 경기도지사상표창 |차세대융합기술연구원 <br> 경기도자율주행센터|
+|  2024.12 | 경기도자율주행센터 데이터 활용 경진대회 대상| 경기도지사상표창 |차세대융합기술연구원 <br> 경기도자율주행센터|
 |  2024.11 | 자율주행 인공지능 챌린지 신호등 인식 부문 / [코드](https://github.com/Batwan01/2024-Autonomous-Driving-Artificial-Intelligence-Challenge)| KaKao Mobility 대표상 | 과학기술정보통신부 <br> Kakao mobility |
 |  2024.11 | 헬스케어 데이터 대회 모델 개발 부문 대상 | 건강보험심사평가원장상 | 데이콘 / 건강보험심사평가원장 |
 |  2024.11 | 헬스케어 데이터 대회 데이터 분석 부문 최우수상 | 연세대학교 미래캠퍼스 부총장상 | 데이콘 / 연세대학교 미래캠퍼스 |
