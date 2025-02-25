@@ -7,6 +7,10 @@
 [<img src="https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://www.linkedin.com/in/지완-박-09584a299/)
 
 &nbsp;
+
+📃[수상 및 활동에 대한 기사](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4)
+
+&nbsp;
 ---
 
 
@@ -88,7 +92,6 @@
 ## 💻 Associated
 **Velog 최신글** <br> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wldhks1120)](https://velog.io/@wldhks1120/posts)
 
-📃[수상 및 활동에 대한 기사](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
