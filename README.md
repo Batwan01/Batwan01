@@ -10,7 +10,8 @@
 📃[수상 및 활동에 대한 기사](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4)
 &nbsp;
 
----
+##
+
 ## 🏆 Awards 🏆
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
