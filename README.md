@@ -8,42 +8,10 @@
 &nbsp;
 
 📃[수상 및 활동에 대한 기사](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4)
-
 &nbsp;
+
 ---
-
-
-
-<!--
-<a href="mailto:joker7011@naver.com"><img src="https://img.shields.io/badge/mail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" height=30px></a>
-
-<br/>
-
-
-## 🔨  Skill
-
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JAVA-%23FF160B" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-
-## ⌨️ Studying
-&nbsp;
-[<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=Tensorflow&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=PyTorch&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-
- ## 📊 Github Stats
-
-
-## 🛠️ My Projects -->
-
 ## 🏆 Awards 🏆
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
@@ -95,3 +63,30 @@
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
+<!--
+<a href="mailto:joker7011@naver.com"><img src="https://img.shields.io/badge/mail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" height=30px></a>
+
+<br/>
+
+
+## 🔨  Skill
+
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JAVA-%23FF160B" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+
+## ⌨️ Studying
+&nbsp;
+[<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=Tensorflow&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=PyTorch&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+ ## 📊 Github Stats
+## 🛠️ My Projects -->
