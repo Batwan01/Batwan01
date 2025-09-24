@@ -16,24 +16,24 @@
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
-|  2025.08 | 원주시 공공데이터 활용 아이디어 공모전 우수상 | 원주시장상 | 원주시 / 공기업 |
-|  2024.12 | 경기도자율주행센터 데이터 활용 경진대회 대상| 경기도지사상표창 |차세대융합기술연구원 <br> 경기도자율주행센터|
-|  2024.11 | 자율주행 인공지능 챌린지 신호등 인식 부문 / [코드](https://github.com/Batwan01/2024-Autonomous-Driving-Artificial-Intelligence-Challenge)| KaKao Mobility 대표상 | 과학기술정보통신부 <br> Kakao mobility |
-|  2024.11 | 헬스케어 데이터 대회 모델 개발 부문 대상 | 건강보험심사평가원장상 | 데이콘 / 건강보험심사평가원장 |
-|  2024.11 | 헬스케어 데이터 대회 데이터 분석 부문 최우수상 | 연세대학교 미래캠퍼스 부총장상 | 데이콘 / 연세대학교 미래캠퍼스 |
+|  2025.08 | 원주시 공공데이터 활용 아이디어 공모전 우수상(전국) | 원주시장상 | 원주시 / 공기업 |
+|  2024.12 | 경기도자율주행센터 데이터 활용 경진대회 대상(전국)| 경기도지사상표창 |차세대융합기술연구원 <br> 경기도자율주행센터|
+|  2024.11 | 자율주행 인공지능 챌린지 신호등 인식 부문(전국) / [코드](https://github.com/Batwan01/2024-Autonomous-Driving-Artificial-Intelligence-Challenge)| KaKao Mobility 대표상 | 과학기술정보통신부 <br> Kakao mobility |
+|  2024.11 | 헬스케어 데이터 대회 모델 개발 부문 대상(도내) | 건강보험심사평가원장상 | 데이콘 / 건강보험심사평가원장 |
+|  2024.11 | 헬스케어 데이터 대회 데이터 분석 부문 최우수상(도내) | 연세대학교 미래캠퍼스 부총장상 | 데이콘 / 연세대학교 미래캠퍼스 |
 |  2024.10 | [Recycling waste object detection](https://velog.io/@wldhks1120/Recycling-waste-object-detection-2nd) / [코드](https://github.com/boostcampaitech7/level2-objectdetection-cv-18)| 2nd | NAVER Connect |
 |  2024.09 | [Sketch image data classification](https://velog.io/@wldhks1120/Sketch-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EB%A5%98) / [코드](https://github.com/boostcampaitech7/level1-imageclassification-cv-18) | 1st | NAVER Connect |
-|  2024.05 | [2024 창업 경진대회](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | LINC 3.0 |
-|  2024.04 | [대학 우등 포상 및 Dean's list](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | GWNU 과학기술대학 |
-|  2024.04 | [AI 기반 의료 데이터 분석 경진대회](https://velog.io/@wldhks1120/AI-의료-데이터-분석) / [코드](https://github.com/Batwan01/AI/blob/master/DL/contest/CT%2C%20MRI%20Classification/submit.ipynb) | 대상 | 연세대학교 부총장상 (intel, G-market) |
+|  2024.05 | [2024 창업 경진대회(교내)](https://velog.io/@wldhks1120/2024-창업경진대회) | 은상 | LINC 3.0 |
+|  2024.04 | [대학 우등 포상 및 Dean's list(교내)](https://velog.io/@wldhks1120/대학-우등-포상-및-Deans-list-선발) | Dean's list | GWNU 과학기술대학 |
+|  2024.04 | [AI 기반 의료 데이터 분석 경진대회(도내)](https://velog.io/@wldhks1120/AI-의료-데이터-분석) / [코드](https://github.com/Batwan01/AI/blob/master/DL/contest/CT%2C%20MRI%20Classification/submit.ipynb) | 대상 | 연세대학교 부총장상 (intel, G-market) |
 |  2024.02 | [한국지도자육성장학재단 장학생 선발(국내 104명)](https://velog.io/@wldhks1120/%ED%95%9C%EC%A7%80%ED%9A%8C-54%EA%B8%B0-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C) | 장학생 | 한국지도자육성장학재단 이사장 |
-|  2024.02 | [인공지능윤리 아이디어 경진대회](https://velog.io/@wldhks1120/%EC%9C%A4%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8C%80%ED%9A%8C) | KT 대표 이사상 | ESG협의체(SKT, KT, LG, NHN, MS) |
-|  2023.11 | [프로그래밍 경진대회](https://velog.io/@wldhks1120/%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C) | 우수상 | GWNU CSE |
-|  2023.11 | [AZURE를 활용한 인공지능 서비스 개발 경진대회](https://velog.io/@wldhks1120/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) | 장려상 | 인공지능기술교육협의회 회장 |
-|  2023.11 | [AIRpa 해커톤](https://velog.io/@wldhks1120/AIRPA-%ED%95%B4%EC%BB%A4%ED%86%A4) | 장려상 | 한국지능정보사회진흥원 원장 |
-|  2023.09 | [생성형 AI 아이디어개발 창업톤](https://velog.io/@wldhks1120/AI-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85%ED%86%A4) | 최우수 | 대구한의대학교 |
-|  2023.06 | [대학생 논문경진대회(SMS category classification)](https://private-user-images.githubusercontent.com/128815650/350651812-6cc183e5-5d28-4623-b035-4dd504f988f0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0Mzg3NDIsIm5iZiI6MTcyMTQzODQ0MiwicGF0aCI6Ii8xMjg4MTU2NTAvMzUwNjUxODEyLTZjYzE4M2U1LTVkMjgtNDYyMy1iMDM1LTRkZDUwNGY5ODhmMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQwMTIwNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kM2E2MTJiOGI0ZWUzYTlhOGU5OGVhNzgwNGQ2MGFmNTEwOWRkNTE1ODYxZjZkMzczMTVkOWEzZTJkZTVkYmIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.cYpKLyS3kCGTGXjKPB0dxa8Mqzi_N9h3IXlssOAkbsM) / [코드](https://github.com/Batwan01/AI/tree/master/DL/contest/%20SMS%20category%20classification)| 동상 | 한국정보기술학회장 |
-|  2023.05 | [2023 창업 경진대회](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | LINC 3.0 |
+|  2024.02 | [인공지능윤리 아이디어 경진대회(전국)](https://velog.io/@wldhks1120/%EC%9C%A4%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8C%80%ED%9A%8C) | KT 대표 이사상 | ESG협의체(SKT, KT, LG, NHN, MS) |
+|  2023.11 | [프로그래밍 경진대회(교내)](https://velog.io/@wldhks1120/%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C) | 우수상 | GWNU CSE |
+|  2023.11 | [AZURE를 활용한 인공지능 서비스 개발 경진대회(전국)](https://velog.io/@wldhks1120/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) | 장려상 | 인공지능기술교육협의회 회장 |
+|  2023.11 | [AIRpa 해커톤(전국)](https://velog.io/@wldhks1120/AIRPA-%ED%95%B4%EC%BB%A4%ED%86%A4) | 장려상 | 한국지능정보사회진흥원 원장 |
+|  2023.09 | [생성형 AI 아이디어개발 창업톤(전국)](https://velog.io/@wldhks1120/AI-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85%ED%86%A4) | 최우수 | 대구한의대학교 |
+|  2023.06 | [대학생 논문경진대회(SMS category classification)(전국)](https://github.com/Batwan01/Batwan01/issues/1)| 동상 | 한국정보기술학회장 |
+|  2023.05 | [2023 창업 경진대회(교내)](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | LINC 3.0 |
 
 ## 🎖️    Experience   🎖️
 | 날짜 | 활동명 | 내용 | 주최, 주관, 후원 |
