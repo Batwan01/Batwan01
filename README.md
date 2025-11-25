@@ -38,7 +38,8 @@
 ## 🎖️    Experience   🎖️
 | 날짜 | 활동명 | 내용 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
-|  2024.10 ~ 10 | [Tableau Bootcamp 29th](https://github.com/Batwan01/Batwan01/issues/1) | Data Visualization | tableau |
+|  2025.11 | [AWS SAA Certification Training](https://github.com/Batwan01/Batwan01/issues/1) | AWS SAA | AWS |
+|  2025.10 ~ 10 | [Tableau Bootcamp 29th](https://github.com/Batwan01/Batwan01/issues/1) | Data Visualization | tableau |
 |  2024.11 ~ 12 | [에이닷 얼리어닷터 2기](https://github.com/Batwan01/Batwan01/issues/1) | LLM, Prompt engineering | SK telecom |
 |  2024.08~2025.02 | [부스트캠프 AI Tech 7기](https://velog.io/@wldhks1120/부스트캠프-AI-TECH-7기-최종-선발) | Computer Vision | 네이버 CONNECT(boostcamp)|
 |  2024.06 | [인공지능 기초 다지기( AI Tech )](https://github.com/Batwan01/Batwan01/issues/1) | 수료 | 네이버 CONNECT(boostcamp)|
