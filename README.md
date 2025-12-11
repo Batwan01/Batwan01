@@ -54,6 +54,7 @@
 
 | 발급일 | 자격증명 | 시행처 |
 | - | - | :-: |
+|  2025. 12. 11. | [AWS SAA](https://www.credly.com/badges/7e93f876-e8d5-403a-a0bb-e3f75400bd7f) | AWS Certified |
 |  2025. 11. 28. | [ADsP](https://github.com/Batwan01/Batwan01/issues/1) | 한국데이터산업진흥원 |
 |  2024. 07. 11. | [AZ-900](https://www.credly.com/badges/c11552a5-72b7-4bd7-afaf-414ada914204) | Microsoft |
 |  2023. 10. 11. | [AI-900](https://www.credly.com/badges/43e9ce02-d346-416c-8c44-dd79194c43b6/public_url) | Microsoft |
