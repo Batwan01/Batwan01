@@ -16,6 +16,8 @@
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
+|  2025.11 | AWS 해커톤 | 대상 | 넥스트클라우드 |
+|  2025.11 | 2025 Agentic Workflow Hackathon | 우수상 | upstage |
 |  2025.08 | 원주시 공공데이터 활용 아이디어 공모전 우수상(전국) | 원주시장상 | 원주시 / 공기업 |
 |  2024.12 | 경기도자율주행센터 데이터 활용 경진대회 대상(전국)| 경기도지사상표창 |차세대융합기술연구원 <br> 경기도자율주행센터|
 |  2024.11 | 자율주행 인공지능 챌린지 신호등 인식 부문(전국) / [코드](https://github.com/Batwan01/2024-Autonomous-Driving-Artificial-Intelligence-Challenge)| KaKao Mobility 대표상 | 과학기술정보통신부 <br> Kakao mobility |
