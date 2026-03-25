@@ -57,6 +57,7 @@
 
 | 발급일 | 자격증명 | 시행처 |
 | - | - | :-: |
+|  2026. 03. . | [SQLD](https://github.com/Batwan01/Batwan01/issues/1) | 한국데이터산업진흥원 |
 |  2025. 12. 10. | [AWS SAA](https://www.credly.com/badges/7e93f876-e8d5-403a-a0bb-e3f75400bd7f) | AWS Certified |
 |  2025. 11. 28. | [ADsP](https://github.com/Batwan01/Batwan01/issues/1) | 한국데이터산업진흥원 |
 |  2024. 07. 11. | [AZ-900](https://www.credly.com/badges/c11552a5-72b7-4bd7-afaf-414ada914204) | Microsoft |
