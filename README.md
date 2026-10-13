@@ -13,7 +13,6 @@ AI 시스템 설계부터 모델 개발, 평가 및 검증까지 경험하고 �
 |---|---|---|
 | 2026.10 – 현재 | **NAVER WEBTOON** | AI Character Model Evaluation & Testing |
 | 2026.07 – 2026.08 | **주식회사 아이들** | AI Companion System Design |
-| 2025.10 – 2025.12 | **미래내일 일경험** | Manufacturing AI Model Development |
 | 2024.08 – 2025.02 | **부스트캠프 AI Tech 7기** | Computer Vision |
 
 ## Projects
