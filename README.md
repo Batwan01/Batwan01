@@ -1,23 +1,39 @@
-</br><br/><br/>
 
-<div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Jiwan's+Github+%E3%80%80%E3%80%80"><br/><br><br>
+# 박지완 | AI Engineer
 
-[<img src="https://img.shields.io/badge/Velog-%2320C997?logo=Velog&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://velog.io/@wldhks1120/posts)
-&nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://www.linkedin.com/in/지완-박-09584a299/)
-&nbsp;
+**AI Character Model Evaluation @ NAVER WEBTOON**
 
-📃[수상 및 활동에 대한 기사](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4)
-&nbsp;
+AI 시스템 설계부터 모델 개발, 평가 및 검증까지 경험하고 있습니다.
 
-##
+[Velog](https://velog.io/@wldhks1120/posts) · [LinkedIn](https://www.linkedin.com/in/지완-박-09584a299/) · [Awards & Activities](https://batwan.notion.site/1608889ef25580899673c45ad08b6ca7?pvs=4)
 
-## 🏆 Awards 🏆
+## Experience
+
+| 기간 | 소속 | 역할 |
+|---|---|---|
+| 2026.10 – 현재 | **NAVER WEBTOON** | AI Character Model Evaluation & Testing |
+| 2026.07 – 2026.08 | **주식회사 아이들** | AI Companion System Design |
+| 2025.10 – 2025.12 | **미래내일 일경험** | Manufacturing AI Model Development |
+| 2024.08 – 2025.02 | **부스트캠프 AI Tech 7기** | Computer Vision |
+
+## Projects
+
+| 프로젝트 | 주요 내용 | 성과 |
+|---|---|---|
+| **[PitchMate](https://github.com/IBM2026-Team6)**<br>`2026.01` | RAG 기반 발표 내용 검증 및 코칭 서비스<br>LLM 멀티패스 투표 · 하이브리드 키워드 매칭 | **IBM AI 해커톤 최우수상**<br>키워드 커버리지 **82% → 95.9%** |
+| **TVING 시맨틱 영상 검색**<br>`2025.01 – 02` | 자연어 기반 영상 장면 검색 파이프라인<br>FAISS · 임베딩 파인튜닝 · 4서버 분산 처리 | Recall@3 **7% 향상**<br>처리 속도 **82.27% 향상** |
+| **제조 AI 불량 검증**<br>`2025.10 – 12` | 제조 데이터 기반 불량 검증 모델 개발<br>외부 데이터 호환성 검증 · 추론 최적화 | 검증률 **0.89 → 0.97**<br>추론 **51.36ms/image** |
+| **[자율주행 AI 챌린지](https://github.com/Batwan01/2024-Autonomous-Driving-Artificial-Intelligence-Challenge)**<br>`2024.11` | 차량 주행 영상 기반 신호등 상태 인식<br>Computer Vision 모델 개발 | **Kakao Mobility 대표상** |
+
+## 전체 이력
+
+<details>
+<summary>수상 전체 (21)</summary>
 
 | 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
 |  2026.01 | [IBM AI 개발자 해커톤](https://github.com/IBM2026-Team6) | 최우수상 | 한국IBM㈜, 데이타솔루션 |
-|  2025.12 | 미래내일 일경험 프로젝트 <br> 신우하이텍 CNC 공정 품질 검사 머신러닝 시스템 구축 | 성장발견상(1st) | 강원산학융합원장 |
+|  2025.12 | 미래내일 일경험 프로젝트 <br> 신우하이텍 CNC 공정 품질 검사 머신러닝 시스템 구축 | 성장발견상(1st) | 강원산학융합원장 |
 |  2025.11 | AWS 해커톤 | 대상 | 넥스트클라우드 |
 |  2025.11 | 2025 Agentic Workflow Hackathon | 우수상 | upstage |
 |  2025.08 | 원주시 공공데이터 활용 아이디어 공모전 우수상(전국) | 원주시장상 | 원주시 / 공기업 |
@@ -39,7 +55,11 @@
 |  2023.06 | [대학생 논문경진대회(SMS category classification)(전국)](https://github.com/Batwan01/Batwan01/issues/1)| 동상 | 한국정보기술학회장 |
 |  2023.05 | [2023 창업 경진대회(교내)](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 은상 | LINC 3.0 |
 
-## 🎖️    Experience   🎖️
+</details>
+
+<details>
+<summary>활동 (11)</summary>
+
 | 날짜 | 활동명 | 내용 | 주최, 주관, 후원 |
 | - | - | :-: | :-: |
 |  2025.11 | [AWS SAA Certification Training](https://github.com/Batwan01/Batwan01/issues/1) | AWS SAA | AWS |
@@ -54,7 +74,10 @@
 |  2023.08 | [하나 소셜벤처 유니버시티 창업교육](https://velog.io/@wldhks1120/%EC%B0%BD%EC%97%85%EB%8F%99%EC%95%84%EB%A6%AC) | 수료 | 하나금융그룹 |
 |  2020.09 | 홍보대사 하랑 | 단원 | GWNU 대학 지원본부 |
 
-## 📃 Certificate 📃
+</details>
+
+<details>
+<summary>자격증 (9)</summary>
 
 | 발급일 | 자격증명 | 시행처 |
 | - | - | :-: |
@@ -68,37 +91,4 @@
 |  2022. 07. 15. | [컴퓨터활용능력 1급](https://github.com/Batwan01/Batwan01/issues/1#issuecomment-2240820070) | 대한상공회의소 |
 |  2022. 04. 22. | [한국사능력검정시험 1급](https://github.com/Batwan01/Batwan01/issues/1#issuecomment-2240820777)  | 국사편찬위원회 |
 
-## 💻 Associated
-**Velog 최신글** <br> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wldhks1120)](https://velog.io/@wldhks1120/posts)
-
-
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
-
-<!--
-<a href="mailto:joker7011@naver.com"><img src="https://img.shields.io/badge/mail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" height=30px></a>
-
-<br/>
-
-
-## 🔨  Skill
-
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JAVA-%23FF160B" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-
-## ⌨️ Studying
-&nbsp;
-[<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=Tensorflow&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=PyTorch&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
- ## 📊 Github Stats
-## 🛠️ My Projects -->
+</details>
