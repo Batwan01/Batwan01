@@ -21,7 +21,7 @@ AI 시스템 설계부터 모델 개발, 평가 및 검증까지 경험하고 �
 | 프로젝트 | 주요 내용 | 성과 |
 |---|---|---|
 | **[PitchMate](https://github.com/IBM2026-Team6)**<br>`2026.01` | RAG 기반 발표 내용 검증 및 코칭 서비스<br>LLM 멀티패스 투표 · 하이브리드 키워드 매칭 | **IBM AI 해커톤 최우수상**<br>키워드 커버리지 **82% → 95.9%** |
-| **TVING 시맨틱 영상 검색**<br>`2025.01 – 02` | 자연어 기반 영상 장면 검색 파이프라인<br>FAISS · 임베딩 파인튜닝 · 4서버 분산 처리 | Recall@3 **7% 향상**<br>처리 속도 **82.27% 향상** |
+| **[TVING 시맨틱 영상 검색](https://github.com/Batwan01/TVING-Video-Retrieval)**<br>`2025.01 – 02` | 자연어 기반 영상 장면 검색 파이프라인<br>FAISS · 임베딩 파인튜닝 · 4서버 분산 처리 | Recall@3 **7% 향상**<br>처리 속도 **82.27% 향상** |
 | **제조 AI 불량 검증**<br>`2025.10 – 12` | 제조 데이터 기반 불량 검증 모델 개발<br>외부 데이터 호환성 검증 · 추론 최적화 | 검증률 **0.89 → 0.97**<br>추론 **51.36ms/image** |
 | **[자율주행 AI 챌린지](https://github.com/Batwan01/2024-Autonomous-Driving-Artificial-Intelligence-Challenge)**<br>`2024.11` | 차량 주행 영상 기반 신호등 상태 인식<br>Computer Vision 모델 개발 | **Kakao Mobility 대표상** |
 
